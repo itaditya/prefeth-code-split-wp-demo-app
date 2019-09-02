@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> works it renders properly 1`] = `
+<div>
+  <div>
+    <div>
+      <ul>
+        <li>
+          <a
+            href="/about/"
+          >
+            About
+          </a>
+        </li>
+        <li>
+          <a
+            href="/users/"
+          >
+            Users
+          </a>
+        </li>
+      </ul>
+      <button
+        class="shadow-xl"
+      >
+        Add To Cart button
+      </button>
+      <p
+        class=""
+      >
+        Datepicker
+      </p>
+    </div>
+  </div>
+</div>
+`;
