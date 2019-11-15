@@ -2502,10 +2502,10 @@ des.js@^1.0.0:
     inherits "^2.0.1"
     minimalistic-assert "^1.0.0"
 
-design-troopers@1.4:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/design-troopers/-/design-troopers-1.4.0.tgz#73bb6116f29be1bc365660ea288c1709ea581abb"
-  integrity sha512-Cp4nLisZL4Id1zclE6iyolh0G8pyK9Hz/bGxePL9ru9v7+hkDXZ7gcs6QhulHxnYwkBA8sfvYsEw16fAcWTNDg==
+design-troopers@2.1:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/design-troopers/-/design-troopers-2.1.0.tgz#8c8dd012540da929bbb0c1b26c8cb0fc1aadff93"
+  integrity sha512-jOwgzKTtJuTrD2mqEASrC2rehsyDHAqw3va9/h1boYxRXLn2krzrfYPVrrg8ZvokhZvYaDbYs1hwQg7S770UyA==
   dependencies:
     classnames "^2.2.6"
     material-svg-react-icons "3"

@@ -37,7 +37,7 @@
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
-    "design-troopers": "1.4",
+    "design-troopers": "2.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",

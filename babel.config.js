@@ -2,8 +2,6 @@ const packagebind = require('packagebind');
 
 const babelConfig = {
   plugins: [
-    '@babel/plugin-proposal-export-default-from',
-    '@babel/plugin-proposal-export-namespace-from',
     [
       'module-resolver',
       {
@@ -12,7 +10,9 @@ const babelConfig = {
           '_app_utils': './src/app_utils',
           '_app_components': './src/app_components',
           '_ui_components': './src/ui_components',
-          // 'design-troopers': '../design-troopers/src/', // root path of design-troopers package code
+          // 'design-troopers': 'design-troopers/dist/es',
+          'design-troopers-styles': 'design-troopers/dist/es/styles',
+          'design-troopers': '../design-troopers/src', // root path of design-troopers package code
         },
       },
     ],
